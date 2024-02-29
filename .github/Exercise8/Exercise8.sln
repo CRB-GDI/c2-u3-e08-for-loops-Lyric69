@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E08 for loops", "E08 for loops\E08 for loops.csproj", "{7D3C9F44-ACDA-46D0-8402-7FEBF6768E31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise8", "Exercise8\Exercise8.csproj", "{A943E2E1-E12C-43EE-BAEB-5F30F6634FA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7D3C9F44-ACDA-46D0-8402-7FEBF6768E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D3C9F44-ACDA-46D0-8402-7FEBF6768E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D3C9F44-ACDA-46D0-8402-7FEBF6768E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D3C9F44-ACDA-46D0-8402-7FEBF6768E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A943E2E1-E12C-43EE-BAEB-5F30F6634FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A943E2E1-E12C-43EE-BAEB-5F30F6634FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A943E2E1-E12C-43EE-BAEB-5F30F6634FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A943E2E1-E12C-43EE-BAEB-5F30F6634FA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DD0D1FEE-CE7F-4DC4-8119-C3AE3B5FB351}
+		SolutionGuid = {A9E44B59-03F1-478A-B5E8-4CEA3BC8CB2C}
 	EndGlobalSection
 EndGlobal
